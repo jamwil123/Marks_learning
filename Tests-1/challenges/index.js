@@ -2,12 +2,11 @@
 // Important! Don't change the name of the functions.
 
 function modulo(a, b) {
-  return a % b;
   // return the remainder of the division a / b
 }
 
 function squareRoot(n) {
-  Math.sqrt(n);
+  // return the square root of n
 }
 
 function raiseToPower(m, n) {
